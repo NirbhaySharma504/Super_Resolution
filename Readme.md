@@ -2,7 +2,7 @@
 
 This repository contains the implementation of an Enhanced Super-Resolution Generative Adversarial Network (ESRGAN) designed to upscale 64x64 resolution jet images to 125x125 matrices. The dataset consists of three-channel images (Tracks, ECAL, HCAL) for two classes of particles: quarks and gluons.
 
-## 🚀 Quickstart & How to Run
+## Quickstart & How to Run
 
 To quickly reproduce the evaluation results without retraining from scratch, follow these steps:
 
@@ -13,7 +13,7 @@ To quickly reproduce the evaluation results without retraining from scratch, fol
     * Load the pre-trained generator weights from the `outputs/` folder.
     * Run the evaluation to display the visual and quantitative comparisons (PSNR, SSIM, MAE).
 
-## 📁 Project Structure
+## Project Structure
 
 Ensure your working directory matches the following structure before running the notebook:
 
